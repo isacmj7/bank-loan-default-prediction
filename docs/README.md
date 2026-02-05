@@ -19,3 +19,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
 ## Tableau Dashboard
 
 [View on Tableau Public](https://public.tableau.com/app/profile/ishak.islam/viz/BankLoanDefaultAnalysisIndia/Dashboard)
+
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/bank-loan-default-prediction](https://github.com/isacmj7/bank-loan-default-prediction)

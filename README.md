@@ -49,3 +49,7 @@ Place the downloaded CSV file in the `data/` folder:
 ## Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/bank-loan-default-prediction](https://github.com/isacmj7/bank-loan-default-prediction)
